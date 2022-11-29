@@ -1,7 +1,7 @@
 class Spaceship extends Floater {
   public Spaceship(){
     myColor = (255);
-    myCenterX = myCenterY = 300;
+    myCenterX = myCenterY = 500;
     myPointDirection = 0;
     myXspeed = myYspeed = 0;
     corners = 4;
